@@ -1,2 +1,2 @@
 # Nawigacja
-Projekt C# - Wyznaczanie drogi z punkt a do b
+Projekt C# - Wyznaczanie drogi z punkt A do B
