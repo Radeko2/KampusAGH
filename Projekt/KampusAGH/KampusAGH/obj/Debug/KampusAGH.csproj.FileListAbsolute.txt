@@ -1,0 +1,12 @@
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\bin\Debug\KampusAGH.exe.config
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\bin\Debug\KampusAGH.exe
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\bin\Debug\KampusAGH.pdb
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\bin\Debug\GMap.NET.Core.dll
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\obj\Debug\KampusAGH.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\obj\Debug\KampusAGH.Form1.resources
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\obj\Debug\KampusAGH.Properties.Resources.resources
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\obj\Debug\KampusAGH.csproj.GenerateResource.Cache
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\obj\Debug\KampusAGH.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\obj\Debug\KampusAGH.exe
+C:\Users\Kuba\Desktop\Projektowanie\GitHub\Projekt\KampusAGH\KampusAGH\obj\Debug\KampusAGH.pdb
